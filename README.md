@@ -66,4 +66,4 @@ Code distribué sous [licence MIT](LICENSE).
 
 ## Auteurs
 
-**Amar Merabti**, Kaci Sofiane Agouni et Aghilas Ould Braham — Master 1 DCI, Université Paris Cité, sous la direction de Themis Palpanas.
+**Amar Merabti** — Master 1 DCI, Université Paris Cité, sous la direction de Themis Palpanas.
